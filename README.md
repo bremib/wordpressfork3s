@@ -19,3 +19,4 @@ Pour vérifier les pods, tapez :
 kubctl get pods --namespace wordpress
 
 Vous pouvez accèder à votre site Wordpress via l'IP ou votre ingressroute si vous configurer un traefik ! 
+Déployer Traefik sous K3S : https://github.com/bremib/traefikfork3s
